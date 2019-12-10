@@ -1,3 +1,4 @@
+package data_struct;
 
 import java.util.Arrays;
 
@@ -13,7 +14,7 @@ public class ExtArrayList<E> implements ExtList<E> {
 	// 记录实际ArrayList大小
 	private int size;
 
-	// ArrayList 指定 数组初始的容量
+	// data_struct.ArrayList 指定 数组初始的容量
 	public ExtArrayList(int initialCapacity) {
 		if (initialCapacity < 0) {
 			throw new IllegalArgumentException("初始容量不能小于0");

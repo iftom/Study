@@ -1,3 +1,4 @@
+package data_struct;
 
 /**
  * Created by wangxy on 2018/7/5.
