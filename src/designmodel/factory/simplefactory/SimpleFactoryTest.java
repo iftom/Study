@@ -16,5 +16,6 @@ public class SimpleFactoryTest {
         iphone2.sayName();
         Iphone iphone3 = (Iphone)Factory.getAppleProduct(Iphone.class);
         iphone3.sayName();
+        System.out.println();
     }
 }
