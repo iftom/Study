@@ -34,6 +34,7 @@ public class Factory {
         if ("Iwatch".equals(productName)) {
             return new Iwatch();
         }
+        System.out.println("21");
         return null;
     }
 
