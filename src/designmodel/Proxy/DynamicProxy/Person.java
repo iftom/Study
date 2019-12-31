@@ -1,4 +1,4 @@
-package designmodel.Delegate.DynamicDelegate;
+package designmodel.Proxy.DynamicProxy;
 
 /**
  * Created By WangXiaoYu Tom
